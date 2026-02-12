@@ -208,5 +208,6 @@ __marimo__/
 
 # Chroma / DB
 chromadb_backup/
+old_chromadb/
 *.sqlite3
 
