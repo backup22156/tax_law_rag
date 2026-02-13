@@ -211,3 +211,9 @@ chromadb_backup/
 old_chromadb/
 *.sqlite3
 
+
+# Chroma / DB
+chromadb_backup/
+old_chromadb/
+*.sqlite3
+*.bin
